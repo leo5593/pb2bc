@@ -17,7 +17,7 @@
 */
 &{/chosen} {
 	overlays {
-		k3-am62-pocketbeagle2-eth.kernel = __TIMESTAMP__;
+		k3-am62-pocketbeagle2-rgmii2.kernel = __TIMESTAMP__;
 	};
 };
 
