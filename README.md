@@ -2,6 +2,8 @@
 
 Convert the PocketBeagle 2 to an BeagleBone Black like board with native ethernet support.
 
+<img src="https://github.com/leo5593/pb2bc/raw/main/res/images/PCB_PB2BC_V0.1_routing.png" height="400px">
+
 ## Objective
 
 Use the PocketBeagle 2 in project that currently use the BeagleBone Black.
