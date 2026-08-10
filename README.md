@@ -1,3 +1,6 @@
+> [!WARNING]
+> The documents in this repository are not production ready yet !!
+
 # PocketBeagle 2 Black Cape
 
 Convert the PocketBeagle 2 to an BeagleBone Black like board with native ethernet support.
